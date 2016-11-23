@@ -1,0 +1,10 @@
+<footer class="site-footer">
+    Thanks to <a href="http://jekyllrb.com/">Jekyll</a> and Gaurav Chaurasia for 
+    {% if site.sourcecode %}
+    <a href="{{ site.sourcecode }}">much-worse-jekyll-theme</a>.
+    {% endif %}
+    {% if site.analytics.provider and page.analytics != false %}
+     :: Analytics by {{ site.analytics.provider }}
+    {% endif %} <br />
+    © RXperts, All Rights Reserved.
+</footer>
