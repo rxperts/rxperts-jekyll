@@ -42,9 +42,9 @@ analytics:
 # Set 'provider' to the comment provider you want to use.
 # Set 'provider' to false to turn commenting off globally.
 #
-comments:
-    provider: true
-    disqus: true
+comments: 
+    provider: disqus
+    disqus: 
       short_name: rxperts-github-io
     livefyre:
       site_id:
