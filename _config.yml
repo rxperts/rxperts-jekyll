@@ -1,12 +1,12 @@
 title: RXperts
-description: Bangladeshi open-source community of R practitioners and Data enthusiasts.
+description: Bangladeshi open-source community of R practitioners and Data Science enthusiasts.
 sourcecode: "https://github.com/gchauras/much-worse-jekyll-theme"
 
-permalink: blog/:year/:month/:day/:title
+permalink: none
 exclude: ["Makefile", "README.md"]
 
 url: "http://rxperts.github.io"     # the base hostname & protocol for your site
-baseurl: "/rxperts-jekyll"                   # the subpath of your site, e.g. /blog
+baseurl: "/rxperts.github.io"                   # the subpath of your site, e.g. /blog
 
 author:
     name: RXperts
